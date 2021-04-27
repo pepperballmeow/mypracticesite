@@ -1,7 +1,7 @@
 # mypracticesite
 this is my practice site description
 
-<a href=http;//pepperballmeow/mypracticesite/2ndpage> link to 2nd page </a>
+<a href="http;//pepperballmeow/mypracticesite/2ndpage"> link to 2nd page </a>
 
 
 
