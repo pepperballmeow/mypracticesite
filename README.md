@@ -1,7 +1,10 @@
 # mypracticesite
 this is my practice site description
 
-<a href=http;//  > link to 2nd page </a>
+<a href=http;//mypracticesite/2ndpage> link to 2nd page </a>
+
+
+
 <!-- Default -->
   <section class="block block-hcl hcl-search-box-light-transparent block-hcl-hcl-searchbox header">
 
